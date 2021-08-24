@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 035a6ee5cd0af8643a4b4d6331f5e6e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5606267231108787606
+    second: npc_juju_red__x1_move_left_png_1354831751_0
+  - first:
+      213: 8760797216161964290
+    second: npc_juju_red__x1_move_left_png_1354831751_1
+  - first:
+      213: 611513508901877119
+    second: npc_juju_red__x1_move_left_png_1354831751_2
+  - first:
+      213: -7236326279717041080
+    second: npc_juju_red__x1_move_left_png_1354831751_3
+  - first:
+      213: 8577123355904511295
+    second: npc_juju_red__x1_move_left_png_1354831751_4
+  - first:
+      213: -475501899586618807
+    second: npc_juju_red__x1_move_left_png_1354831751_5
+  - first:
+      213: 3308820997237546078
+    second: npc_juju_red__x1_move_left_png_1354831751_6
+  - first:
+      213: -5120627684391918660
+    second: npc_juju_red__x1_move_left_png_1354831751_7
+  - first:
+      213: 771090157706073734
+    second: npc_juju_red__x1_move_left_png_1354831751_8
+  - first:
+      213: 9091569040137533588
+    second: npc_juju_red__x1_move_left_png_1354831751_9
+  - first:
+      213: 5406483977184645362
+    second: npc_juju_red__x1_move_left_png_1354831751_10
+  - first:
+      213: -2557883490976044218
+    second: npc_juju_red__x1_move_left_png_1354831751_11
+  - first:
+      213: 1010540507904812694
+    second: npc_juju_red__x1_move_left_png_1354831751_12
+  - first:
+      213: 1160585080329546719
+    second: npc_juju_red__x1_move_left_png_1354831751_13
+  - first:
+      213: 54429296550765835
+    second: npc_juju_red__x1_move_left_png_1354831751_14
+  - first:
+      213: -8893971279259991026
+    second: npc_juju_red__x1_move_left_png_1354831751_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 154
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6219d518a98232b0800000000000000
+      internalID: -5606267231108787606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 154
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201a092c6aa949970800000000000000
+      internalID: 8760797216161964290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 153
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75f271eb488c7800800000000000000
+      internalID: 611513508901877119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 153
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c44aa9697639b90800000000000000
+      internalID: -7236326279717041080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 152
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d0567af30180770800000000000000
+      internalID: 8577123355904511295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 152
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94abd19aa8da669f0800000000000000
+      internalID: -475501899586618807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_6
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 152
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c92b58a2b4bed20800000000000000
+      internalID: 3308820997237546078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_7
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 153
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3e9c45040efe8b0800000000000000
+      internalID: -5120627684391918660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686dedbb96673ba00800000000000000
+      internalID: 771090157706073734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49836507fddbb2e70800000000000000
+      internalID: 9091569040137533588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f09eef4880b70b40800000000000000
+      internalID: 5406483977184645362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b69876482908cd0800000000000000
+      internalID: -2557883490976044218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_12
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6962fc4ec39260e00800000000000000
+      internalID: 1010540507904812694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_13
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb29a44bf93b1010800000000000000
+      internalID: 1160585080329546719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 4
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b056846282f51c000800000000000000
+      internalID: 54429296550765835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_red__x1_move_left_png_1354831751_15
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 3
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e048e296e34429480800000000000000
+      internalID: -8893971279259991026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

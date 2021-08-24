@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: 6ce25874f6e16614d91c18743b0690e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4844345976154961593
+    second: chicken attack_0
+  - first:
+      213: 2343500464989892602
+    second: chicken attack_1
+  - first:
+      213: -1835830643638797262
+    second: chicken attack_2
+  - first:
+      213: 6058885815011501683
+    second: chicken attack_3
+  - first:
+      213: -3202895134895912867
+    second: chicken attack_4
+  - first:
+      213: 4072656727810033087
+    second: chicken attack_5
+  - first:
+      213: 7823796979428780365
+    second: chicken attack_6
+  - first:
+      213: 7180829591362676856
+    second: chicken attack_7
+  - first:
+      213: 4834052849660084067
+    second: chicken attack_8
+  - first:
+      213: 7868681056899857726
+    second: chicken attack_9
+  - first:
+      213: -4958040824369045242
+    second: chicken attack_10
+  - first:
+      213: -3012796280121973795
+    second: chicken attack_11
+  - first:
+      213: 984475550583615890
+    second: chicken attack_12
+  - first:
+      213: -3705851357580172032
+    second: chicken attack_13
+  - first:
+      213: -9006338142842000443
+    second: chicken attack_14
+  - first:
+      213: 3918807747889523846
+    second: chicken attack_15
+  - first:
+      213: -7462535637858807811
+    second: chicken attack_16
+  - first:
+      213: -5982850745758087441
+    second: chicken attack_17
+  - first:
+      213: -6264819739461207139
+    second: chicken attack_18
+  - first:
+      213: 4223327784840448097
+    second: chicken attack_19
+  - first:
+      213: -5050366578408635990
+    second: chicken attack_20
+  - first:
+      213: -6127952413150168489
+    second: chicken attack_21
+  - first:
+      213: -4561171276874833150
+    second: chicken attack_22
+  - first:
+      213: 1519947677619108354
+    second: chicken attack_23
+  - first:
+      213: 3186962362609005659
+    second: chicken attack_24
+  - first:
+      213: 4679983597318256889
+    second: chicken attack_25
+  - first:
+      213: -4767829790569269019
+    second: chicken attack_26
+  - first:
+      213: 1585413748114270812
+    second: chicken attack_27
+  - first:
+      213: -1025060436215848884
+    second: chicken attack_28
+  - first:
+      213: -4352349265995022901
+    second: chicken attack_29
+  - first:
+      213: -4199661168579112898
+    second: chicken attack_30
+  - first:
+      213: -6689448021423326562
+    second: chicken attack_31
+  - first:
+      213: 710515309598028385
+    second: chicken attack_32
+  - first:
+      213: 5939945645235385751
+    second: chicken attack_33
+  - first:
+      213: 8369470130029569762
+    second: chicken attack_34
+  - first:
+      213: -2988971777158011359
+    second: chicken attack_35
+  - first:
+      213: 5808265440190578778
+    second: chicken attack_36
+  - first:
+      213: 5637080224123382781
+    second: chicken attack_37
+  - first:
+      213: 1930317024954148252
+    second: chicken attack_38
+  - first:
+      213: -2331235905014092851
+    second: chicken attack_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chicken attack_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 671
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749c03a400d65ccb0800000000000000
+      internalID: -4844345976154961593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 671
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff6faaa149c58020800000000000000
+      internalID: 2343500464989892602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 671
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cf12a91c1d586e0800000000000000
+      internalID: -1835830643638797262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_3
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 671
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e9622c8c751450800000000000000
+      internalID: 6058885815011501683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_4
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 671
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58c3bf28d70d83d0800000000000000
+      internalID: -3202895134895912867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_5
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 671
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5c83157bbf48830800000000000000
+      internalID: 4072656727810033087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 561
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4960a986e5b39c60800000000000000
+      internalID: 7823796979428780365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 561
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87829c9b77e67a360800000000000000
+      internalID: 7180829591362676856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 561
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f34717471061340800000000000000
+      internalID: 4834052849660084067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_9
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 561
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d7c5f2bbb233d60800000000000000
+      internalID: 7868681056899857726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_10
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 561
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60129999320813bb0800000000000000
+      internalID: -4958040824369045242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_11
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 561
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd326b6eeb56036d0800000000000000
+      internalID: -3012796280121973795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 451
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291f79a1c4f89ad00800000000000000
+      internalID: 984475550583615890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 451
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005e80123db229cc0800000000000000
+      internalID: -3705851357580172032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_14
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 451
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbe9dc3d2f030380800000000000000
+      internalID: -9006338142842000443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 451
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ce00c42e6626630800000000000000
+      internalID: 3918807747889523846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_16
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 451
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff8bb5206fbf6890800000000000000
+      internalID: -7462535637858807811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 451
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe688eaf1f4a8fca0800000000000000
+      internalID: -5982850745758087441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 341
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b3f8fa3a3ee09a0800000000000000
+      internalID: -6264819739461207139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 341
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168c3718e364c9a30800000000000000
+      internalID: 4223327784840448097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_20
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 341
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1c27cda5e79e9b0800000000000000
+      internalID: -5050366578408635990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_21
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 341
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75abfad5fb325faa0800000000000000
+      internalID: -6127952413150168489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_22
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 341
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203292ac3e673b0c0800000000000000
+      internalID: -4561171276874833150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_23
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 341
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20abaa91c50f71510800000000000000
+      internalID: 1519947677619108354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 231
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5479df226d5a3c20800000000000000
+      internalID: 3186962362609005659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 231
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f83fc04944a2f040800000000000000
+      internalID: 4679983597318256889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_26
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 231
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8f797011445ddb0800000000000000
+      internalID: -4767829790569269019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_27
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 231
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a2f5e6765800610800000000000000
+      internalID: 1585413748114270812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_28
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 231
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c402c0ad6f046c1f0800000000000000
+      internalID: -1025060436215848884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_29
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 231
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd3fedf6695993c0800000000000000
+      internalID: -4352349265995022901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 121
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3017ddfa6ec7b5c0800000000000000
+      internalID: -4199661168579112898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 121
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a7f9b777e4a23a0800000000000000
+      internalID: -6689448021423326562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 121
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162311cd8e14cd900800000000000000
+      internalID: 710515309598028385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_33
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 121
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7953269d71dee6250800000000000000
+      internalID: 5939945645235385751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_34
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 121
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6a7aa6db4562470800000000000000
+      internalID: 8369470130029569762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_35
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 121
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12624d2410a0586d0800000000000000
+      internalID: -2988971777158011359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 11
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50ccb3f4aa1b9050800000000000000
+      internalID: 5808265440190578778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 11
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbe049e89eea3e40800000000000000
+      internalID: 5637080224123382781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_38
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 11
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e7406b1dd9ca10800000000000000
+      internalID: 1930317024954148252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken attack_39
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 11
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbaff9bb49c5afd0800000000000000
+      internalID: -2331235905014092851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1320 @@
+fileFormatVersion: 2
+guid: 73291ba43652e4f42a124e533c1a3976
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 956527111749374881
+    second: npc_dustbunny__x1_talk_png_1354831143_0
+  - first:
+      213: -8504667599410919919
+    second: npc_dustbunny__x1_talk_png_1354831143_1
+  - first:
+      213: -8687428033341673385
+    second: npc_dustbunny__x1_talk_png_1354831143_2
+  - first:
+      213: 9174749209342458861
+    second: npc_dustbunny__x1_talk_png_1354831143_3
+  - first:
+      213: 8478212448824204962
+    second: npc_dustbunny__x1_talk_png_1354831143_4
+  - first:
+      213: 7528437004078511302
+    second: npc_dustbunny__x1_talk_png_1354831143_5
+  - first:
+      213: 5244671798101932284
+    second: npc_dustbunny__x1_talk_png_1354831143_6
+  - first:
+      213: -308464617654488748
+    second: npc_dustbunny__x1_talk_png_1354831143_7
+  - first:
+      213: -8573150733853515293
+    second: npc_dustbunny__x1_talk_png_1354831143_8
+  - first:
+      213: 8443950535934606465
+    second: npc_dustbunny__x1_talk_png_1354831143_9
+  - first:
+      213: -7699331450765613653
+    second: npc_dustbunny__x1_talk_png_1354831143_10
+  - first:
+      213: 2443627073643356903
+    second: npc_dustbunny__x1_talk_png_1354831143_11
+  - first:
+      213: -1247179013459095599
+    second: npc_dustbunny__x1_talk_png_1354831143_12
+  - first:
+      213: 8187017295794312469
+    second: npc_dustbunny__x1_talk_png_1354831143_13
+  - first:
+      213: -159672675677204116
+    second: npc_dustbunny__x1_talk_png_1354831143_14
+  - first:
+      213: 8453060314534534405
+    second: npc_dustbunny__x1_talk_png_1354831143_15
+  - first:
+      213: -7226587269450039657
+    second: npc_dustbunny__x1_talk_png_1354831143_16
+  - first:
+      213: -2987759360827183602
+    second: npc_dustbunny__x1_talk_png_1354831143_17
+  - first:
+      213: 2609389893078058763
+    second: npc_dustbunny__x1_talk_png_1354831143_18
+  - first:
+      213: -5938480479392118949
+    second: npc_dustbunny__x1_talk_png_1354831143_19
+  - first:
+      213: -738572601346786875
+    second: npc_dustbunny__x1_talk_png_1354831143_20
+  - first:
+      213: -423658778789652268
+    second: npc_dustbunny__x1_talk_png_1354831143_21
+  - first:
+      213: 3016338080183828008
+    second: npc_dustbunny__x1_talk_png_1354831143_22
+  - first:
+      213: 1274549920888758936
+    second: npc_dustbunny__x1_talk_png_1354831143_23
+  - first:
+      213: 3498715220695932167
+    second: npc_dustbunny__x1_talk_png_1354831143_24
+  - first:
+      213: -6969993895476500555
+    second: npc_dustbunny__x1_talk_png_1354831143_25
+  - first:
+      213: -595454920405568014
+    second: npc_dustbunny__x1_talk_png_1354831143_26
+  - first:
+      213: -1401768464761920807
+    second: npc_dustbunny__x1_talk_png_1354831143_27
+  - first:
+      213: -1643584520553215551
+    second: npc_dustbunny__x1_talk_png_1354831143_28
+  - first:
+      213: 7967155718851853088
+    second: npc_dustbunny__x1_talk_png_1354831143_29
+  - first:
+      213: -3037623809084372609
+    second: npc_dustbunny__x1_talk_png_1354831143_30
+  - first:
+      213: -5031220905794005496
+    second: npc_dustbunny__x1_talk_png_1354831143_31
+  - first:
+      213: -5791107098923494515
+    second: npc_dustbunny__x1_talk_png_1354831143_32
+  - first:
+      213: 4720309679366335397
+    second: npc_dustbunny__x1_talk_png_1354831143_33
+  - first:
+      213: 8560884302416020960
+    second: npc_dustbunny__x1_talk_png_1354831143_34
+  - first:
+      213: 6556434425500703282
+    second: npc_dustbunny__x1_talk_png_1354831143_35
+  - first:
+      213: 6948308245514083960
+    second: npc_dustbunny__x1_talk_png_1354831143_36
+  - first:
+      213: -3302329841749633776
+    second: npc_dustbunny__x1_talk_png_1354831143_37
+  - first:
+      213: 4266353522144292897
+    second: npc_dustbunny__x1_talk_png_1354831143_38
+  - first:
+      213: -5039869692982876846
+    second: npc_dustbunny__x1_talk_png_1354831143_39
+  - first:
+      213: 8503691067699130025
+    second: npc_dustbunny__x1_talk_png_1354831143_40
+  - first:
+      213: -790721650947989344
+    second: npc_dustbunny__x1_talk_png_1354831143_41
+  - first:
+      213: 2006040644924762486
+    second: npc_dustbunny__x1_talk_png_1354831143_42
+  - first:
+      213: -7590457221424608496
+    second: npc_dustbunny__x1_talk_png_1354831143_43
+  - first:
+      213: -5184653854820215386
+    second: npc_dustbunny__x1_talk_png_1354831143_44
+  - first:
+      213: -3274924384798576459
+    second: npc_dustbunny__x1_talk_png_1354831143_45
+  - first:
+      213: -4391560584323521828
+    second: npc_dustbunny__x1_talk_png_1354831143_46
+  - first:
+      213: -7371117041899635871
+    second: npc_dustbunny__x1_talk_png_1354831143_47
+  - first:
+      213: -2120001356924908988
+    second: npc_dustbunny__x1_talk_png_1354831143_48
+  - first:
+      213: -5189607499774460057
+    second: npc_dustbunny__x1_talk_png_1354831143_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 296
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a31ad91754464d00800000000000000
+      internalID: 956527111749374881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 296
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1168654c0e959f980800000000000000
+      internalID: -8504667599410919919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 296
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75036ec4b3e007780800000000000000
+      internalID: -8687428033341673385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 295
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb3726cbc1435f70800000000000000
+      internalID: 9174749209342458861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 295
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae167e7d49a8a570800000000000000
+      internalID: 8478212448824204962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 296
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4710e51916a7860800000000000000
+      internalID: 7528437004078511302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 296
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8ff518631d8c840800000000000000
+      internalID: 5244671798101932284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 295
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4517de6801d18bbf0800000000000000
+      internalID: -308464617654488748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_8
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 295
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e128ce74dc060980800000000000000
+      internalID: -8573150733853515293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 237
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cf9534640fe2570800000000000000
+      internalID: 8443950535934606465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 237
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba56f1d96da762590800000000000000
+      internalID: -7699331450765613653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 237
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e22a0860e189e120800000000000000
+      internalID: 2443627073643356903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 237
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfc27b8b4121bee0800000000000000
+      internalID: -1247179013459095599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 236
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5159cc59ad02e9170800000000000000
+      internalID: 8187017295794312469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_14
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 236
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c619ce52c8ab8cdf0800000000000000
+      internalID: -159672675677204116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_15
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 237
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d58c0e19d4f4570800000000000000
+      internalID: 8453060314534534405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_16
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 237
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ef112aa2106bb90800000000000000
+      internalID: -7226587269450039657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_17
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 236
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e2c8fe0b85986d0800000000000000
+      internalID: -2987759360827183602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 177
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b078969584a663420800000000000000
+      internalID: 2609389893078058763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 178
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57cd38a777469da0800000000000000
+      internalID: -5938480479392118949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_20
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 178
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c973e7d12010c5f0800000000000000
+      internalID: -738572601346786875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 178
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d85448d59cde1af0800000000000000
+      internalID: -423658778789652268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_22
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 178
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e37dfa08f2cd920800000000000000
+      internalID: 3016338080183828008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 177
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892a313766c10b110800000000000000
+      internalID: 1274549920888758936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_24
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 177
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d55dbc4feed8030800000000000000
+      internalID: 3498715220695932167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_25
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 178
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b76b7d0b7b954f90800000000000000
+      internalID: -6969993895476500555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_26
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 178
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5b77d97e48cb7f0800000000000000
+      internalID: -595454920405568014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 118
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d26588120beb8ce0800000000000000
+      internalID: -1401768464761920807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 118
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9481e2690d039e0800000000000000
+      internalID: -1643584520553215551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_29
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 119
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bf26c1ae5019e60800000000000000
+      internalID: 7967155718851853088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 119
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79c14a5d3138d5d0800000000000000
+      internalID: -3037623809084372609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_31
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 119
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80611a32e338d2ab0800000000000000
+      internalID: -5031220905794005496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_32
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 119
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d831c60b6cad1afa0800000000000000
+      internalID: -5791107098923494515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_33
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 118
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abe774e4a8e18140800000000000000
+      internalID: 4720309679366335397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_34
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 118
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e589b06aee5ec670800000000000000
+      internalID: 8560884302416020960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_35
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 119
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a9c1d5f522dfa50800000000000000
+      internalID: 6556434425500703282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 60
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ed8cb19895d6060800000000000000
+      internalID: 6948308245514083960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 59
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01557536184cb22d0800000000000000
+      internalID: -3302329841749633776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 59
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120b5ad9ce1253b30800000000000000
+      internalID: 4266353522144292897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 60
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255af737739ce0ab0800000000000000
+      internalID: -5039869692982876846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_40
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 60
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae6ed9b8fd230670800000000000000
+      internalID: 8503691067699130025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_41
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 60
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0e80f09dac605f0800000000000000
+      internalID: -790721650947989344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_42
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 60
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6796cbd8653e6db10800000000000000
+      internalID: 2006040644924762486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_43
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 59
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b00328f5749a690800000000000000
+      internalID: -7590457221424608496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_44
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 59
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5d41cd9c86c08b0800000000000000
+      internalID: -5184653854820215386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0f0d19f912d82d0800000000000000
+      internalID: -3274924384798576459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd22ac18aea0e03c0800000000000000
+      internalID: -4391560584323521828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b7ebfaa1884b990800000000000000
+      internalID: -7371117041899635871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_48
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a05258ffd3492e0800000000000000
+      internalID: -2120001356924908988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_talk_png_1354831143_49
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f7d34897fcaf7b0800000000000000
+      internalID: -5189607499774460057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

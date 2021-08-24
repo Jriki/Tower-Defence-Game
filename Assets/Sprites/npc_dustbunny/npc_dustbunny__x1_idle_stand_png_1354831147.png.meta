@@ -1,0 +1,3732 @@
+fileFormatVersion: 2
+guid: 3ab3dee241759b2438e706f2b09ab235
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1122
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808872dc1e664e1c0800000000000000
+      internalID: -4475339009703835640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1122
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cdfd1b403e9df30800000000000000
+      internalID: 4600958103639284814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1122
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93971a2a4d898b3b0800000000000000
+      internalID: -5496475306176710343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1121
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fee79d6db101a30800000000000000
+      internalID: 4183874663413116705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1121
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f87893f0d7b7950800000000000000
+      internalID: 6447884795854163730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1122
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53225935bd75a9040800000000000000
+      internalID: 4655129764352565813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1122
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23995c3ec3963e10800000000000000
+      internalID: 2177089983865262895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1121
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516d9fb9f9809e0e0800000000000000
+      internalID: -2240249858030447083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_8
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1121
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7228ae9651aad7820800000000000000
+      internalID: 2917675142553960999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1063
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978d342ccc4c1a5b0800000000000000
+      internalID: -5358785697882580871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1063
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e869e9811a5605e0800000000000000
+      internalID: -1943767157789071129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1063
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356c4a3641d68e7e0800000000000000
+      internalID: -1736017722012809645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1063
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777a39221c8f26fb0800000000000000
+      internalID: -4655885556355192969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1062
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8cc578e96fe7460800000000000000
+      internalID: 7241496411594606754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_14
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1062
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da13a511201d9200800000000000000
+      internalID: 188324493702404822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_15
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1063
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012e2a543f7dd49d0800000000000000
+      internalID: -2788335154427141616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_16
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1063
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5681ce524b8c2d620800000000000000
+      internalID: 2797518994606397541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_17
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1062
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1e2a48628475ea0800000000000000
+      internalID: -5884155057865039417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1003
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeec9f2e78301ab0800000000000000
+      internalID: -5039465868411736388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1004
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820d5c74922050bc0800000000000000
+      internalID: -3817642732805566424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_20
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1004
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69164977e8748c3b0800000000000000
+      internalID: -5492061068361178730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1004
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9f9a07b7901e8d0800000000000000
+      internalID: -2818961465981404706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_22
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1004
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e783d017a91ac690800000000000000
+      internalID: -7581218817392277528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1003
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a963d626f09df7730800000000000000
+      internalID: 3999153654227351194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_24
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1003
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb75cccae8d3f8a80800000000000000
+      internalID: -8462477491812149316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_25
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1004
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6613cb5b859aebf0800000000000000
+      internalID: -294258399866841490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_26
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1004
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74941ec5fba63aea0800000000000000
+      internalID: -5862724919776687801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 944
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4df00761ecdf9d0800000000000000
+      internalID: -2738806402606705434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 944
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a451484f49bb5e0800000000000000
+      internalID: -1892755440470242669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_29
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 945
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddcef41a801acb30800000000000000
+      internalID: 4308274178777075164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 945
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11b3168b5598bb80800000000000000
+      internalID: -8378782886398807779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_31
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 945
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4851a68c06b3ff7f0800000000000000
+      internalID: -576676940414839420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_32
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 945
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03548850d9a07b800800000000000000
+      internalID: 627982342560433456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_33
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 944
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6500d41c318cfb230800000000000000
+      internalID: 3656861409621114966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_34
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 944
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8ffe0d17549b9c0800000000000000
+      internalID: -3911018446255556439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_35
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 945
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb27f2b7ce10fdbf0800000000000000
+      internalID: -297516935192546626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 886
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7067df9eccb9cdb0800000000000000
+      internalID: -4771074734591352706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 885
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20938d550f3b5a9e0800000000000000
+      internalID: -1610683446901327614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 885
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d88435c3c3599120800000000000000
+      internalID: 2421058374980634833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 886
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b2d18c82fe76b20800000000000000
+      internalID: 3127731424667184011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_40
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 886
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d60c2474b6c1c40800000000000000
+      internalID: 5484376400037178716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_41
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 886
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfed14f434eb2d080800000000000000
+      internalID: -9164053095443734788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_42
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 886
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510cee1f08a5146c0800000000000000
+      internalID: -4160945070852358123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_43
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 885
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00f8645a9dc983c0800000000000000
+      internalID: -4356725101779423219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_44
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 885
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f111b950470e630800000000000000
+      internalID: 3954288040256544527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 827
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac6dbdc438b71170800000000000000
+      internalID: 8149184587679755435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 827
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf23581959864800800000000000000
+      internalID: 596315016426368939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 826
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab48aa8a8c0b138d0800000000000000
+      internalID: -2868317111788600134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_48
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 826
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8875b5499c472d670800000000000000
+      internalID: 8562034250710996872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_49
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 827
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bcf867059afe020800000000000000
+      internalID: 2373301691699153787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_50
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 827
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548bbea3c8029b170800000000000000
+      internalID: 8194616783633365061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_51
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 827
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a83f1657be16ecf0800000000000000
+      internalID: -223457358735525720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_52
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 827
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d568a46fe268f20800000000000000
+      internalID: 3424476202008993170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_53
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 826
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefe142f61e604ab0800000000000000
+      internalID: -5025896139312730132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 767
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762d2e168231ca0c0800000000000000
+      internalID: -4563251258271280537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 768
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeae4b760265b9c70800000000000000
+      internalID: 8978864979272067822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_56
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 768
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066968708e1830f10800000000000000
+      internalID: 2234772673664554592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 767
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c301eb27c1ea0e50800000000000000
+      internalID: 6776476834883240899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_58
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 767
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3580ba92848fc550800000000000000
+      internalID: 6183306509878854974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_59
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 768
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75768682d324df950800000000000000
+      internalID: 6484411868921751383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_60
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 768
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ac0a91773d485b0800000000000000
+      internalID: -5366932347434251692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_61
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 768
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45822c0ec2e886440800000000000000
+      internalID: 4929346115557533780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_62
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 768
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d598a821aef9930800000000000000
+      internalID: 4152294746813455766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_63
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 708
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c836c42ebdcfb1e90800000000000000
+      internalID: -7053766370021055604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 708
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704091bd3eb39f6a0800000000000000
+      internalID: -6415030344393096185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_65
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 709
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061e4c3880acb2190800000000000000
+      internalID: -7986067376292175520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_66
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 709
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91530d00114fe3f40800000000000000
+      internalID: 5710269731417634073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_67
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 708
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050278086ca143580800000000000000
+      internalID: -8848417928013995952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 708
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00311362e3c587110800000000000000
+      internalID: 1258857517848531712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_69
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 709
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346c55db79cf19ae0800000000000000
+      internalID: -1544175468564593085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_70
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 709
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b9d0fa5d0a70180800000000000000
+      internalID: -9149167278354490508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_71
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 709
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889071d7de9967850800000000000000
+      internalID: 6374451567874476424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 650
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46529f909c4355760800000000000000
+      internalID: 7445915596987376996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_73
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 649
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8db0805eaba75250800000000000000
+      internalID: 5933399799247191436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_74
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 649
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d46182d96d8e95f0800000000000000
+      internalID: -748005002454145835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_75
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 650
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3738dbf6a778d8f70800000000000000
+      internalID: 9191151374463501171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_76
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 650
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89140f4cd7079e10800000000000000
+      internalID: 2204239185421015436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_77
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 649
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b114c80f573b3c30800000000000000
+      internalID: 4340123547210092985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_78
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 649
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445fa59d27cc8dc30800000000000000
+      internalID: 4384479030890132804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_79
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 650
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb1fb2c51398b630800000000000000
+      internalID: 3943063195433769978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_80
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 650
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b9870fcdc844280800000000000000
+      internalID: -9059961669807465676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_81
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 591
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cdd2398c1a637e0800000000000000
+      internalID: -1786062319371035538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_82
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 591
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee8d0fa2b4b5d610800000000000000
+      internalID: 1645419918407864047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_83
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 590
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26a764131a14dc50800000000000000
+      internalID: 6689000015801067052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_84
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 590
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd11851955159d5f0800000000000000
+      internalID: -731464036518456867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_85
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 591
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ab9ca2e7c04d090800000000000000
+      internalID: -8010764101161993654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 591
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9a0d186c4f5a620800000000000000
+      internalID: 2784901078017157537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_87
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 590
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47849429a529f8630800000000000000
+      internalID: 3931521917416720500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_88
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 590
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdf95aab50d17020800000000000000
+      internalID: 2337878773700623818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_89
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 591
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f7dc594d8f5d370800000000000000
+      internalID: 8346851076331110157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_90
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 532
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ced4d5e1a4dc4290800000000000000
+      internalID: -7904709454131306807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_91
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 532
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dedabe177c61e50800000000000000
+      internalID: 6779825581152136475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_92
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 532
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f29d804f54e8ed0800000000000000
+      internalID: -2409911836173848724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_93
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 531
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afec85c644bf75b0800000000000000
+      internalID: -5368374014747283543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_94
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 531
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9344f685d73ee5280800000000000000
+      internalID: -9052548073474014151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_95
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 532
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9517a7180fb5defb0800000000000000
+      internalID: -4616932954462326439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_96
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 532
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329a4ef0b74888070800000000000000
+      internalID: 8108876793163065635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_97
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 531
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f033192d4af41a310800000000000000
+      internalID: 1414499327297008399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_98
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 531
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cd801aac5a44570800000000000000
+      internalID: 8450061090557582447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_99
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 473
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53654bb15066aeba0800000000000000
+      internalID: -6058918176547908043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_100
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 473
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7641744d5896da070800000000000000
+      internalID: 8119261726731867239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_101
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 473
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d550d59ae86385a20800000000000000
+      internalID: 3051248733898212701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_102
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 473
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dbe9e4c9beff2c0800000000000000
+      internalID: -4395535654723863157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_103
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 472
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89115e4b9a369ab20800000000000000
+      internalID: 3146155395230536088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_104
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 472
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce43d8cef3836160800000000000000
+      internalID: 7017597774687588047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_105
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 473
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df4dea7ffc988430800000000000000
+      internalID: 3785448107897868241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_106
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 473
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785b8427cad2fecc0800000000000000
+      internalID: -3679672151863413369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_107
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 472
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da9455a3b59fc60800000000000000
+      internalID: 7852407731394293017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_108
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 413
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9274aeb344f6ad4a0800000000000000
+      internalID: -6567814767712778455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_109
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 414
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174dae4dc33638000800000000000000
+      internalID: 36982334870443121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_110
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 414
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1415dbf475b94b0800000000000000
+      internalID: -5432652525502119445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_111
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 414
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc58e5b6ec64779f0800000000000000
+      internalID: -470829783658363445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_112
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 414
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0de87d6552ece910800000000000000
+      internalID: 1868116801988652303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_113
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 413
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95eaa3e77a4a64c0800000000000000
+      internalID: -4293537415963155043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_114
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 413
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dad2b6c1773a930800000000000000
+      internalID: 4153294245306674554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_115
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 414
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc4777306dd62a40800000000000000
+      internalID: 5343201413238836469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_116
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 414
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac112cb5a68a34e50800000000000000
+      internalID: 6792457837764284874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_117
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 354
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d685c489980bad570800000000000000
+      internalID: 8492294152372639853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_118
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 354
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9534b8b523eb1b600800000000000000
+      internalID: 482375758598849369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_119
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 355
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c1ba699ad640c20800000000000000
+      internalID: 3171780612720368768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_120
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 355
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da739b7b3a2c6f80800000000000000
+      internalID: -8112062393836406058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_121
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 355
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebdb8fa747166730800000000000000
+      internalID: 3991903716365818851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_122
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 355
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e5358f049488dc0800000000000000
+      internalID: -3636576155708727664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_123
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 354
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b6fd82b62cc1b00800000000000000
+      internalID: 800728599268125532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_124
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 354
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99bb6a35eef0b8a0800000000000000
+      internalID: -6291248418955478628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_125
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 355
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8b5fa4ec660d0c0800000000000000
+      internalID: -4553026187064657742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_126
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 296
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f49166614f2ff90800000000000000
+      internalID: -6921201300275638517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_127
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 295
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edde2ff324d6daf60800000000000000
+      internalID: 8047208240489098718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_128
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 295
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f97a4e98224f9b50800000000000000
+      internalID: 6602068320970242547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_129
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 296
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf8f316554a33b60800000000000000
+      internalID: 7724698472481263547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_130
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 296
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10a2addd4b376b60800000000000000
+      internalID: 7739219690276429855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_131
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 296
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d19b57734948d00800000000000000
+      internalID: 974066385338047817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_132
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 296
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcde3d6ed18ea3e10800000000000000
+      internalID: 2178308584911400397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_133
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 295
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2cb2b5133974180800000000000000
+      internalID: -9131167879278116158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_134
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 295
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e91bbe112ad8f270800000000000000
+      internalID: 8284611350332381672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_135
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 237
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2911de9e558a19fc0800000000000000
+      internalID: -3489823149285109358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_136
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 237
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8175aa18b3a5adc30800000000000000
+      internalID: 4384916398823593752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_137
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 236
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767a6dc69cc30c5d0800000000000000
+      internalID: -3044366512290355353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_138
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 236
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323774549e0b49ef0800000000000000
+      internalID: -102262375586499805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_139
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 237
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7642faff9a8ac850800000000000000
+      internalID: 6398078640347825787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_140
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 237
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8755113429e5c36c0800000000000000
+      internalID: -4162347973313735304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_141
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 237
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72f6dcb153566900800000000000000
+      internalID: 677320404491498107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_142
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 237
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d4b7554c44ffc0800000000000000
+      internalID: -3462058352833145958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_143
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 236
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93312ba6b65940660800000000000000
+      internalID: 7351164780359586617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_144
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 177
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb14ff6a0afe7e430800000000000000
+      internalID: 3812279082867966395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_145
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 178
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa21d807b999d2de0800000000000000
+      internalID: -1356259019881377110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_146
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 178
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eff7c906289e2780800000000000000
+      internalID: -8705853740520308760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_147
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 177
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d994dbd6af6b430800000000000000
+      internalID: 3798498684967689579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_148
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 177
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45387ead30f909c30800000000000000
+      internalID: 4364162877828334420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_149
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 178
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7842516db3ec460800000000000000
+      internalID: 7263809039658944474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_150
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 178
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90e825f2bb878720800000000000000
+      internalID: 2848398890068664478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_151
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 178
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac89ffff2aac05f00800000000000000
+      internalID: 1103604710134225098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_152
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 178
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d100edb5271a16a30800000000000000
+      internalID: 4206821039480373277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_153
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 118
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56af09e5983229fa0800000000000000
+      internalID: -5795530697568355739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_154
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 118
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dfcc268673dc610800000000000000
+      internalID: 1643030360533826957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_155
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 119
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b10358cca96da1d0800000000000000
+      internalID: -3337895557995494984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_156
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 119
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de13d4d0161e1760800000000000000
+      internalID: 7430400696753790680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_157
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 118
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e1d251f960fff90800000000000000
+      internalID: -6917803222292947363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_158
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 118
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4212a07953e4a5480800000000000000
+      internalID: -8909722920724848348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_159
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 119
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b162d6e9c7e69e0800000000000000
+      internalID: -1626225395556279407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_160
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 119
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68da587f474c60370800000000000000
+      internalID: 8288528170869960070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_161
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 119
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8359cd36e1152b0800000000000000
+      internalID: -5597659447593453405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_162
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 60
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29253fdd7cd4ec60800000000000000
+      internalID: 7846638883960072492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_163
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 59
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95be1164f9ed58a80800000000000000
+      internalID: -8465115148916233383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_164
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 59
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f876aa676cd3d8c50800000000000000
+      internalID: 6669054545809270671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_165
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 60
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a12c51415d315320800000000000000
+      internalID: 2544882683639243171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_166
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 60
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21262ed494f5a3550800000000000000
+      internalID: 6141325810317025810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_167
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 59
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962158493cd423760800000000000000
+      internalID: 7436091437147820649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_168
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 59
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6043e0ac553d2010800000000000000
+      internalID: 1165646550511337578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_169
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 60
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9c6ae5c3bd356a0800000000000000
+      internalID: -6461579988014020154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_170
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 60
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb90341d223f6310800000000000000
+      internalID: 1400393178329160691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dustbunny__x1_idle_stand_png_1354831147_171
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c96dff19c4079160800000000000000
+      internalID: 7032094605033957829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

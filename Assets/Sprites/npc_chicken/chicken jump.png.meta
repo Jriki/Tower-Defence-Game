@@ -1,0 +1,1128 @@
+fileFormatVersion: 2
+guid: 080ff10bb47e3aa4b80dc0bb4e106260
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -962586951021236456
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_0
+  - first:
+      213: 5920054530091439788
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_1
+  - first:
+      213: 1865261591173725552
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_2
+  - first:
+      213: -6004676537147357797
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_3
+  - first:
+      213: -7263394179335363585
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_4
+  - first:
+      213: 4433703728485273634
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_5
+  - first:
+      213: -3192436673502409924
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_6
+  - first:
+      213: -6911780751444417263
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_7
+  - first:
+      213: 6743699195978806454
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_8
+  - first:
+      213: -8765033752969445839
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_9
+  - first:
+      213: -1316108396419377069
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_10
+  - first:
+      213: 1823093878991939249
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_11
+  - first:
+      213: 5314374289668100607
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_12
+  - first:
+      213: 2282021937941068063
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_13
+  - first:
+      213: -3561385819067727555
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_14
+  - first:
+      213: -1252270711157333443
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_15
+  - first:
+      213: 6222280251213001531
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_16
+  - first:
+      213: -1056157156573414895
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_17
+  - first:
+      213: 69419645105583382
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_18
+  - first:
+      213: 1933706326535888835
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_19
+  - first:
+      213: 4579427207260903516
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_20
+  - first:
+      213: -1659489020354055710
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_21
+  - first:
+      213: -6099705726692442211
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_22
+  - first:
+      213: -6827473751149197016
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_23
+  - first:
+      213: 8423681309735490965
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_24
+  - first:
+      213: -659606434944965628
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_25
+  - first:
+      213: 8129901611928527862
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_26
+  - first:
+      213: -5091899899671929496
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_27
+  - first:
+      213: -349461731170312145
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_28
+  - first:
+      213: 6925509716622820014
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_29
+  - first:
+      213: 2575554409507425337
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_30
+  - first:
+      213: -4871718641167384308
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_31
+  - first:
+      213: 2553488771849401451
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_32
+  - first:
+      213: -7673376105324441262
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_33
+  - first:
+      213: 7035473355889275160
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_34
+  - first:
+      213: -7968920971991770213
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_35
+  - first:
+      213: 4818818923060201895
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_36
+  - first:
+      213: -560184396332850303
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_37
+  - first:
+      213: -8016429243488082795
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_38
+  - first:
+      213: 895964964494956454
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_39
+  - first:
+      213: -2092439192550160539
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_40
+  - first:
+      213: -8096874745946454672
+    second: npc_chicken__x1_flying_no_feathers_png_1354830388_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 706
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fe3fe944434a2f0800000000000000
+      internalID: -962586951021236456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 709
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6da05ba32482250800000000000000
+      internalID: 5920054530091439788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 707
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07df61bd88db2e910800000000000000
+      internalID: 1865261591173725552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 702
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95853ce08a1baca0800000000000000
+      internalID: -6004676537147357797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_4
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 695
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3631d1a7d333b90800000000000000
+      internalID: -7263394179335363585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_5
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 688
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22090bfdc0ea78d30800000000000000
+      internalID: 4433703728485273634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 579
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b85fb72cf22b3d0800000000000000
+      internalID: -3192436673502409924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 579
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115e5c8d60c6410a0800000000000000
+      internalID: -6911780751444417263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 580
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4776860be669d50800000000000000
+      internalID: 6743699195978806454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 578
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e72f5ad385c5680800000000000000
+      internalID: -8765033752969445839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_10
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 577
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3589381f26e3cbde0800000000000000
+      internalID: -1316108396419377069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_11
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 576
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6e089493eec4910800000000000000
+      internalID: 1823093878991939249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 462
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1d22b724370c940800000000000000
+      internalID: 5314374289668100607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 457
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1930a4acde5baf10800000000000000
+      internalID: 2282021937941068063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 452
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31ca52777a639ec0800000000000000
+      internalID: -3561385819067727555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_15
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 452
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3267da4c6a0f9ee0800000000000000
+      internalID: -1252270711157333443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_16
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 452
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33ba72ebeaf95650800000000000000
+      internalID: 6222280251213001531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 452
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a747f69a6c751f0800000000000000
+      internalID: -1056157156573414895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 345
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615b3f6acc0a6f000800000000000000
+      internalID: 69419645105583382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 360
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfd815a8a7e5da10800000000000000
+      internalID: 1933706326535888835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 365
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c589b8b38c46d8f30800000000000000
+      internalID: 4579427207260903516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 364
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1b221478f48f8e0800000000000000
+      internalID: -1659489020354055710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_22
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 367
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fb41e85fd795ba0800000000000000
+      internalID: -6099705726692442211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_23
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 369
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829c27dfbc0ff31a0800000000000000
+      internalID: -6827473751149197016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 261
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59591e7458de6e470800000000000000
+      internalID: 8423681309735490965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 256
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4042b81317b98d6f0800000000000000
+      internalID: -659606434944965628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 250
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f320e5217633d070800000000000000
+      internalID: 8129901611928527862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_27
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 249
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d1530f400f559b0800000000000000
+      internalID: -5091899899671929496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_28
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 249
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2020033866762bf0800000000000000
+      internalID: -349461731170312145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_29
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 249
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2c1d3f46a5c1060800000000000000
+      internalID: 6925509716622820014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 138
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c816ee6153eb320800000000000000
+      internalID: 2575554409507425337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 136
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01c19315bd246cb0800000000000000
+      internalID: -4871718641167384308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_32
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 132
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6438005280df6320800000000000000
+      internalID: 2553488771849401451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_33
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 131
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2519a266611b28590800000000000000
+      internalID: -7673376105324441262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_34
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 128
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811718cddb503a160800000000000000
+      internalID: 7035473355889275160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_35
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 122
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b154dd894b86190800000000000000
+      internalID: -7968920971991770213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_36
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a90fe18742efd240800000000000000
+      internalID: 4818818923060201895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_37
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 12
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1832ddf6243d938f0800000000000000
+      internalID: -560184396332850303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_38
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 12
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594e6de631cefb090800000000000000
+      internalID: -8016429243488082795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_39
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 15
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7daef536b1f6c00800000000000000
+      internalID: 895964964494956454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_40
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 37
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56741fdf3a926f2e0800000000000000
+      internalID: -2092439192550160539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_chicken__x1_flying_no_feathers_png_1354830388_41
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 45
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075c701515f12af80800000000000000
+      internalID: -8096874745946454672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

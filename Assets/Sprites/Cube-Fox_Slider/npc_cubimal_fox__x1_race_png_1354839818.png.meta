@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: c4c654f3b21a2104a9a2bda1fc861d95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3176180335774511601
+    second: npc_cubimal_fox__x1_race_png_1354839818_0
+  - first:
+      213: -6584271337731571386
+    second: npc_cubimal_fox__x1_race_png_1354839818_1
+  - first:
+      213: -3139854534929728839
+    second: npc_cubimal_fox__x1_race_png_1354839818_2
+  - first:
+      213: 1911842964411008500
+    second: npc_cubimal_fox__x1_race_png_1354839818_3
+  - first:
+      213: -6574077375023036573
+    second: npc_cubimal_fox__x1_race_png_1354839818_4
+  - first:
+      213: 8071184571334588902
+    second: npc_cubimal_fox__x1_race_png_1354839818_5
+  - first:
+      213: -4706641901131193340
+    second: npc_cubimal_fox__x1_race_png_1354839818_6
+  - first:
+      213: 2734295015851570974
+    second: npc_cubimal_fox__x1_race_png_1354839818_7
+  - first:
+      213: -6424523677250775844
+    second: npc_cubimal_fox__x1_race_png_1354839818_8
+  - first:
+      213: 3625992245261774951
+    second: npc_cubimal_fox__x1_race_png_1354839818_9
+  - first:
+      213: 1312047746933839018
+    second: npc_cubimal_fox__x1_race_png_1354839818_10
+  - first:
+      213: -7011545888318133609
+    second: npc_cubimal_fox__x1_race_png_1354839818_11
+  - first:
+      213: -2966748987527021678
+    second: npc_cubimal_fox__x1_race_png_1354839818_12
+  - first:
+      213: 4304174743191464963
+    second: npc_cubimal_fox__x1_race_png_1354839818_13
+  - first:
+      213: -4692630443980054426
+    second: npc_cubimal_fox__x1_race_png_1354839818_14
+  - first:
+      213: -5213654379006622791
+    second: npc_cubimal_fox__x1_race_png_1354839818_15
+  - first:
+      213: -6179594976237641798
+    second: npc_cubimal_fox__x1_race_png_1354839818_16
+  - first:
+      213: 9037165625688774232
+    second: npc_cubimal_fox__x1_race_png_1354839818_17
+  - first:
+      213: -8799904595705800518
+    second: npc_cubimal_fox__x1_race_png_1354839818_18
+  - first:
+      213: 5870880442194799971
+    second: npc_cubimal_fox__x1_race_png_1354839818_19
+  - first:
+      213: -2331740653591260547
+    second: npc_cubimal_fox__x1_race_png_1354839818_20
+  - first:
+      213: 4016848646093071412
+    second: npc_cubimal_fox__x1_race_png_1354839818_21
+  - first:
+      213: -4692151386275571370
+    second: npc_cubimal_fox__x1_race_png_1354839818_22
+  - first:
+      213: -2027577631718141458
+    second: npc_cubimal_fox__x1_race_png_1354839818_23
+  - first:
+      213: -2438631423879452205
+    second: npc_cubimal_fox__x1_race_png_1354839818_24
+  - first:
+      213: -3753140227847143888
+    second: npc_cubimal_fox__x1_race_png_1354839818_25
+  - first:
+      213: -8824548456425982904
+    second: npc_cubimal_fox__x1_race_png_1354839818_26
+  - first:
+      213: 863095047194103004
+    second: npc_cubimal_fox__x1_race_png_1354839818_27
+  - first:
+      213: -6729152050077012354
+    second: npc_cubimal_fox__x1_race_png_1354839818_28
+  - first:
+      213: -2194443513090909923
+    second: npc_cubimal_fox__x1_race_png_1354839818_29
+  - first:
+      213: 1524065780011202961
+    second: npc_cubimal_fox__x1_race_png_1354839818_30
+  - first:
+      213: 6359423344070769418
+    second: npc_cubimal_fox__x1_race_png_1354839818_31
+  - first:
+      213: -7577798003546974178
+    second: npc_cubimal_fox__x1_race_png_1354839818_32
+  - first:
+      213: -1324013425586594886
+    second: npc_cubimal_fox__x1_race_png_1354839818_33
+  - first:
+      213: 955746046535558978
+    second: npc_cubimal_fox__x1_race_png_1354839818_34
+  - first:
+      213: 7008356621651821394
+    second: npc_cubimal_fox__x1_race_png_1354839818_35
+  - first:
+      213: -3962233426357577338
+    second: npc_cubimal_fox__x1_race_png_1354839818_36
+  - first:
+      213: -7414942904444192098
+    second: npc_cubimal_fox__x1_race_png_1354839818_37
+  - first:
+      213: -6229147422318826631
+    second: npc_cubimal_fox__x1_race_png_1354839818_38
+  - first:
+      213: 7692763372867403975
+    second: npc_cubimal_fox__x1_race_png_1354839818_39
+  - first:
+      213: -8728658942505141500
+    second: npc_cubimal_fox__x1_race_png_1354839818_40
+  - first:
+      213: -6117975401060952808
+    second: npc_cubimal_fox__x1_race_png_1354839818_41
+  - first:
+      213: 6222277467927527005
+    second: npc_cubimal_fox__x1_race_png_1354839818_42
+  - first:
+      213: 1194761286195556511
+    second: npc_cubimal_fox__x1_race_png_1354839818_43
+  - first:
+      213: 1880793225591210992
+    second: npc_cubimal_fox__x1_race_png_1354839818_44
+  - first:
+      213: 2118757025109915972
+    second: npc_cubimal_fox__x1_race_png_1354839818_45
+  - first:
+      213: -3913484340798980535
+    second: npc_cubimal_fox__x1_race_png_1354839818_46
+  - first:
+      213: 1191943580628262935
+    second: npc_cubimal_fox__x1_race_png_1354839818_47
+  - first:
+      213: 7878918107264581185
+    second: npc_cubimal_fox__x1_race_png_1354839818_48
+  - first:
+      213: 8053882155939449904
+    second: npc_cubimal_fox__x1_race_png_1354839818_49
+  - first:
+      213: 1273020965564207588
+    second: npc_cubimal_fox__x1_race_png_1354839818_50
+  - first:
+      213: -5175829237471773608
+    second: npc_cubimal_fox__x1_race_png_1354839818_51
+  - first:
+      213: -6973815733488106682
+    second: npc_cubimal_fox__x1_race_png_1354839818_52
+  - first:
+      213: 2375919148857616667
+    second: npc_cubimal_fox__x1_race_png_1354839818_53
+  - first:
+      213: 9052628405407211589
+    second: npc_cubimal_fox__x1_race_png_1354839818_54
+  - first:
+      213: 6878555620498892036
+    second: npc_cubimal_fox__x1_race_png_1354839818_55
+  - first:
+      213: 6369420590563351367
+    second: npc_cubimal_fox__x1_race_png_1354839818_56
+  - first:
+      213: 1794459144182919357
+    second: npc_cubimal_fox__x1_race_png_1354839818_57
+  - first:
+      213: -1832953150297338583
+    second: npc_cubimal_fox__x1_race_png_1354839818_58
+  - first:
+      213: 7967157523740689806
+    second: npc_cubimal_fox__x1_race_png_1354839818_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1bb60ff2f041c20800000000000000
+      internalID: 3176180335774511601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64149b17a18ff94a0800000000000000
+      internalID: -6584271337731571386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba3d17afeefc64d0800000000000000
+      internalID: -3139854534929728839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f54c08fb0b388a10800000000000000
+      internalID: 1911842964411008500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367c1d7557f24c4a0800000000000000
+      internalID: -6574077375023036573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9f20bca9b920070800000000000000
+      internalID: 8071184571334588902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4042b16b026aeaeb0800000000000000
+      internalID: -4706641901131193340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1734fa74da22f520800000000000000
+      internalID: 2734295015851570974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4916e01c187d6a0800000000000000
+      internalID: -6424523677250775844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76036295cbc125230800000000000000
+      internalID: 3625992245261774951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4d75c6974553210800000000000000
+      internalID: 1312047746933839018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a6270d92cf1be90800000000000000
+      internalID: -7011545888318133609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bb3bca38df3d6d0800000000000000
+      internalID: -2966748987527021678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ca22bdf108bbb30800000000000000
+      internalID: 4304174743191464963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660a26c497d60eeb0800000000000000
+      internalID: -4692630443980054426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b386a527f065a7b0800000000000000
+      internalID: -5213654379006622791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf11992c1bad3aa0800000000000000
+      internalID: -6179594976237641798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_17
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856dc8f61467a6d70800000000000000
+      internalID: 9037165625688774232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_18
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8d0a3e46570e580800000000000000
+      internalID: -8799904595705800518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_19
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 56
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d2fcb28ae897150800000000000000
+      internalID: 5870880442194799971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d721b5aca3ef3afd0800000000000000
+      internalID: -2331740653591260547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434e2eabf86beb730800000000000000
+      internalID: 4016848646093071412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65910bc9c2122eeb0800000000000000
+      internalID: -4692151386275571370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee199e2f2e89cd3e0800000000000000
+      internalID: -2027577631718141458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d96f81f3ad382ed0800000000000000
+      internalID: -2438631423879452205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e31f609da2aebc0800000000000000
+      internalID: -3753140227847143888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844f18feee7e88580800000000000000
+      internalID: -8824548456425982904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc476f5f545afb00800000000000000
+      internalID: 863095047194103004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e619fecdf3d92a0800000000000000
+      internalID: -6729152050077012354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d195e826045cb81e0800000000000000
+      internalID: -2194443513090909923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19975e780c1962510800000000000000
+      internalID: 1524065780011202961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_31
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b3aa776d5314850800000000000000
+      internalID: 6359423344070769418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_32
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e181bea5dd046d690800000000000000
+      internalID: -7577798003546974178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_33
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb101aedc820ade0800000000000000
+      internalID: -1324013425586594886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_34
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2476c3f27fd734d00800000000000000
+      internalID: 955746046535558978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_35
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25340dc273fa24160800000000000000
+      internalID: 7008356621651821394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_36
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68917c801b15309c0800000000000000
+      internalID: -3962233426357577338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_37
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9afcc6e6b4d81990800000000000000
+      internalID: -7414942904444192098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_38
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b652f3c6f9d89a0800000000000000
+      internalID: -6229147422318826631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_39
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 28
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0c5e4978f22ca60800000000000000
+      internalID: 7692763372867403975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bb17e20f29dd680800000000000000
+      internalID: -8728658942505141500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8151f2389c5981ba0800000000000000
+      internalID: -6117975401060952808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ebcb9d368f95650800000000000000
+      internalID: 6222277467927527005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9033174f05a49010800000000000000
+      internalID: 1194761286195556511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3435b497be91a10800000000000000
+      internalID: 1880793225591210992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_45
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4493a07e946576d10800000000000000
+      internalID: 2118757025109915972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_46
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e7f900ab280b9c0800000000000000
+      internalID: -3913484340798980535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_47
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710a7a31f52aa8010800000000000000
+      internalID: 1191943580628262935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_48
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ef5e5364a875d60800000000000000
+      internalID: 7878918107264581185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_49
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cc0a7462325cf60800000000000000
+      internalID: 8053882155939449904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_50
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1541cc2ddaaa110800000000000000
+      internalID: 1273020965564207588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_51
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cf9623bb2cb28b0800000000000000
+      internalID: -5175829237471773608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_52
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643496c0a87083f90800000000000000
+      internalID: -6973815733488106682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_53
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19e4b2b0e5f8f020800000000000000
+      internalID: 2375919148857616667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_54
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54068e3629561ad70800000000000000
+      internalID: 9052628405407211589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_55
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4056a9784e9857f50800000000000000
+      internalID: 6878555620498892036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_56
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b569dc74ab46850800000000000000
+      internalID: 6369420590563351367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_57
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db079fc851337e810800000000000000
+      internalID: 1794459144182919357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_58
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d089a32da0096e0800000000000000
+      internalID: -1832953150297338583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_fox__x1_race_png_1354839818_59
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8505285e87019e60800000000000000
+      internalID: 7967157523740689806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
